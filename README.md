@@ -2,7 +2,7 @@
 
 **Created by:** Aditya Yadav  
 **Student Number:** #121  
-**Live App:** [https://YOUR-USERNAME.github.io/crazy-app-student-121/](https://novus-sigma-ashen.vercel.app/)
+**Live App:** [[https://YOUR-USERNAME.github.io/crazy-app-student-121/](https://novus-sigma-ashen.vercel.app/)]
 
 Spin the neon wheel and let the universe pick one of eight ridiculous futures. This project is a single-file interactive web app made with HTML, CSS and JavaScript.
 
